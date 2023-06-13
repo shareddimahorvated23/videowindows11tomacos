@@ -1,0 +1,23 @@
+.u-section-1 .u-sheet-1 {min-height: 859px}
+.u-section-1 .u-btn-1 {background-image: none; border-style: solid; font-family: "Abril Fatface"; margin: 53px auto 0 33px; padding: 10px 38px 10px 37px}
+.u-section-1 .u-btn-2 {background-image: none; border-style: solid; font-family: "Abril Fatface"; margin: 33px auto 0 33px; padding: 10px 52px 10px 51px}
+.u-section-1 .u-btn-3 {background-image: none; border-style: solid; font-family: "Abril Fatface"; margin: 33px auto 0 34px; padding: 10px 52px 10px 51px}
+.u-section-1 .u-btn-4 {background-image: none; border-style: solid; font-family: "Abril Fatface"; margin: 33px auto 0 33px; padding: 10px 80px 10px 79px}
+.u-section-1 .u-btn-5 {background-image: none; border-style: solid; font-family: "Abril Fatface"; margin: 33px auto 0 34px; padding: 10px 71px 10px 70px}
+.u-section-1 .u-btn-6 {background-image: none; border-style: solid; font-family: "Abril Fatface"; margin: 33px auto 0 34px; padding: 10px 64px}
+.u-section-1 .u-btn-7 {background-image: none; border-style: solid; font-family: "Abril Fatface"; margin: 33px auto 0 34px; padding: 10px 79px 10px 78px}
+.u-section-1 .u-btn-8 {background-image: none; border-style: solid; font-family: "Abril Fatface"; margin: 33px auto 0 34px; padding: 10px 75px}
+.u-section-1 .u-btn-9 {background-image: none; border-style: none none solid; font-size: 0.875rem; margin: 126px 33px 33px auto; padding: 0} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 722px}
+.u-section-1 .u-btn-1 {margin-left: 0; padding-right: 96px; padding-left: 95px}
+.u-section-1 .u-btn-2 {margin-top: -3px; margin-left: 0}
+.u-section-1 .u-btn-3 {margin-left: 0}
+.u-section-1 .u-btn-4 {margin-left: 0}
+.u-section-1 .u-btn-5 {margin-left: 0}
+.u-section-1 .u-btn-6 {margin-left: 0}
+.u-section-1 .u-btn-7 {margin-left: 0}
+.u-section-1 .u-btn-8 {margin-left: 0}
+.u-section-1 .u-btn-9 {margin-right: 0; margin-bottom: 0} }
+
+@media (max-width: 575px){ .u-section-1 .u-btn-1 {margin-right: 0; padding-right: 142px; padding-left: 141px} }
